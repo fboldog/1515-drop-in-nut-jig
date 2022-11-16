@@ -8,7 +8,7 @@ The grinded nut working well with Misumi and LDO 1515 profiles.
 
 ### Before grinding:
 ![nut mounted on jig](/images/square-nut-before-grinding.jpg)
-(this model, not fully printed, used for fit testing the nut)
+(this model not fully printed, used for fit testing the nut)
 
 ### After grinding:
 ![grinded down image](/images/grinded-square-nut.jpg)
